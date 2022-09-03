@@ -1,5 +1,5 @@
 # MarkTwo-Neogcamp Cricket Quiz
-A fun CLI app build using Javascript to check your cricket knowledge.
+A fun CLI app build using Javascript to check your cricket knowledge.Have made use of chalk library to add colors.
 
 ## Deployed Link
 https://replit.com/@prathameshId/MarkTwo?embed=1&output=1?index.js
